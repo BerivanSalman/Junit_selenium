@@ -6,7 +6,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import utilities.TestBase;
 
-public class C20_BasicAuthentication extends TestBase {
+public class C19_BasicAuthentication extends TestBase {
     @Test
     public void basicAuntenticationTest(){
         //API bize sifre ve kullanıcı adını vermelidir ve biz de onu url e girmeliyiz. O zaman bizim onun kullanıcısı oldugumuzu anlar
